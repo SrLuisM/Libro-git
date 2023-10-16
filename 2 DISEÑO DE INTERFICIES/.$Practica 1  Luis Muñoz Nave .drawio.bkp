@@ -1,0 +1,272 @@
+<mxfile host="Electron" modified="2023-09-30T18:19:45.142Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.0 Chrome/114.0.5735.289 Electron/25.8.3 Safari/537.36" etag="1yA1IjMaTPVc0Cy7XpTQ" version="22.0.0" type="device">
+  <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-124" target="KvkKib7VPEsa9E-uNiSW-186" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-124" target="KvkKib7VPEsa9E-uNiSW-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-124" target="KvkKib7VPEsa9E-uNiSW-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1770" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-124" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;WEB UPV&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="840" y="160" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-125" target="KvkKib7VPEsa9E-uNiSW-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-227" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=baseDash;endFill=0;strokeWidth=4;" parent="1" source="KvkKib7VPEsa9E-uNiSW-125" target="KvkKib7VPEsa9E-uNiSW-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-125" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;PRESENTACION&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="40" y="290" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-140" target="KvkKib7VPEsa9E-uNiSW-157" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-228" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;endArrow=none;endFill=0;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-140" target="KvkKib7VPEsa9E-uNiSW-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-140" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;ESTRATEGIA&lt;br&gt;UPV SIRVE&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="290" y="280" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-141" target="KvkKib7VPEsa9E-uNiSW-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-141" target="KvkKib7VPEsa9E-uNiSW-186" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-141" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;AREAS Y SERVICIOS&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="530" y="290" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" target="KvkKib7VPEsa9E-uNiSW-179" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885" y="360" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-143" target="KvkKib7VPEsa9E-uNiSW-191" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-231" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-143" target="KvkKib7VPEsa9E-uNiSW-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-143" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;INFORMES VPT&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="290" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-203" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-144" target="KvkKib7VPEsa9E-uNiSW-199" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-144" target="KvkKib7VPEsa9E-uNiSW-145" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-144" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;OFICINA DE APRENDIZAJE DIGITAL&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="290" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-208" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-145" target="KvkKib7VPEsa9E-uNiSW-207" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-145" target="KvkKib7VPEsa9E-uNiSW-206" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-145" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;MAS INFORMACION&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1660" y="290" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-146" target="KvkKib7VPEsa9E-uNiSW-147" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="550.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-146" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Funciones&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="70" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-147" target="KvkKib7VPEsa9E-uNiSW-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-147" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Organigrama&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="70" y="560" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-148" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Noticas&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="70" y="690" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-157" target="KvkKib7VPEsa9E-uNiSW-159" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="570.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-157" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Probando&lt;br&gt;ChatBot&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="330" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-158" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-159" target="KvkKib7VPEsa9E-uNiSW-160" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-159" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Repositorio&lt;br&gt;De&lt;br&gt;Informacion&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="330" y="570" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-160" target="KvkKib7VPEsa9E-uNiSW-162" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-160" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Mapa De&lt;br&gt;Objetos&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="330" y="710" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-162" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Mapa De&lt;br&gt;Objetos&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="330" y="830" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-166" target="KvkKib7VPEsa9E-uNiSW-168" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="550.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-166" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Area&lt;br&gt;Planificacion Estrategica&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="570" y="410" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-168" target="KvkKib7VPEsa9E-uNiSW-170" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-168" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Area Planificacion y Ordenacion Titulos&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="570" y="550" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-170" target="KvkKib7VPEsa9E-uNiSW-171" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-170" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Area Sistemas de Infromacion y Comunicaciones&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="550" y="720" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-171" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Servicio de Evaluacion UPV&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="570" y="880" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-179" target="KvkKib7VPEsa9E-uNiSW-181" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="560.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-179" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Proyectos unidigital vinculados al aprendizaje&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="820" y="420" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-181" target="KvkKib7VPEsa9E-uNiSW-183" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-181" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Prospectiva UPV 2030&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="820" y="610" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-183" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Plan Estrategico UPV 2020&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="810" y="790" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-230" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-186" target="KvkKib7VPEsa9E-uNiSW-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-186" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;PROGRAMAS E INICIATIVAS&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="780" y="290" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-191" target="KvkKib7VPEsa9E-uNiSW-193" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="560.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-191" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Informes VPT&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="420" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-193" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;El uso de las Aulas en la UPV&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="610" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-198" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-199" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1415" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-204" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KvkKib7VPEsa9E-uNiSW-199" target="KvkKib7VPEsa9E-uNiSW-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-199" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;¿Que es la Ofcina de Aprendizaje Digital?&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="430" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KvkKib7VPEsa9E-uNiSW-205" target="KvkKib7VPEsa9E-uNiSW-202" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1415" y="750" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-202" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Proyectos unidital vinculados al aprendizaje&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="800" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-205" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;UNIDIGITAL&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1300" y="630" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-206" target="KvkKib7VPEsa9E-uNiSW-216" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-206" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;ORGANIZACION&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1840" y="470" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-220" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-207" target="KvkKib7VPEsa9E-uNiSW-211" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-207" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;INFORMACION GENERAL&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF6666;fontColor=#ffffff;strokeColor=#B20000;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="1560" y="470" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-211" target="KvkKib7VPEsa9E-uNiSW-213" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1645" y="760.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-211" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Noticias&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1575" y="620" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-213" target="KvkKib7VPEsa9E-uNiSW-214" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-213" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Contacto&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1585" y="760" width="185" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-223" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-214" target="KvkKib7VPEsa9E-uNiSW-222" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-214" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Sugerencias&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1572.5" y="900" width="207.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-216" target="KvkKib7VPEsa9E-uNiSW-218" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1950" y="765.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-216" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Directorio&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1855" y="625" width="200" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-217" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" parent="1" source="KvkKib7VPEsa9E-uNiSW-218" target="KvkKib7VPEsa9E-uNiSW-219" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-218" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Equipo Directivo&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1865" y="790" width="180" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-219" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Webs Relacionadas&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1855" y="980" width="200" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="KvkKib7VPEsa9E-uNiSW-222" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Informacion General&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="1571.25" y="1030" width="207.5" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
